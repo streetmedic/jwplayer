@@ -26,6 +26,7 @@
         "technicalError": "Denne video kan ikke afspilles på grund af en teknisk fejl."
     },
     "fullscreen": "Fuld skærm",
+    "exitFullscreen": "Luk fuld skærm",
     "hd": "Kvalitet",
     "liveBroadcast": "Live",
     "logo": "Logo",

@@ -26,6 +26,7 @@
         "technicalError": "技術的なエラーにより、この動画は再生できません。"
     },
     "fullscreen": "全画面",
+    "exitFullscreen": "全画面を閉じる",
     "hd": "画質",
     "liveBroadcast": "ライブ配信",
     "logo": "ロゴ",

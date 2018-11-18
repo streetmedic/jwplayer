@@ -26,6 +26,7 @@
         "technicalError": "Este video no se puede reproducir por un error técnico."
     },
     "fullscreen": "Pantalla Completa",
+    "exitFullscreen": "Salir de la Pantalla Completa",
     "hd": "Calidad",
     "liveBroadcast": "En Vivo",
     "logo": "Logo",

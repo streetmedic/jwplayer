@@ -26,6 +26,7 @@
         "technicalError": "由于技术故障，无法播放该视频。"
     },
     "fullscreen": "全屏",
+    "exitFullscreen": "離開全螢幕",
     "hd": "视频质量",
     "liveBroadcast": "直播",
     "logo": "标识",

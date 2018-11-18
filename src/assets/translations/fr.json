@@ -26,6 +26,7 @@
         "technicalError": "Une erreur technique empêche la lecture de la vidéo."
     },
     "fullscreen": "Plein Écran",
+    "exitFullscreen": "Sortir du Mode Plein Écran",
     "hd": "Qualité",
     "liveBroadcast": "Live",
     "logo": "Logo",

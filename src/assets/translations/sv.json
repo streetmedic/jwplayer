@@ -26,6 +26,7 @@
         "technicalError": "Videon kan inte spelas på grund av ett tekniskt problem."
     },
     "fullscreen": "Fullskärm",
+    "exitFullscreen": "Stäng Helskärm",
     "hd": "Kvalitet",
     "liveBroadcast": "Live",
     "logo": "Logotyp",

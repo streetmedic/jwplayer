@@ -26,6 +26,7 @@
         "technicalError": "Denne videoen kan ikke spiller på grunn av tekniske problemer."
     },
     "fullscreen": "Full skjerm",
+    "exitFullscreen": "Avslutt fullskjerm",
     "hd": "Kvalitet",
     "liveBroadcast": "Direkte",
     "logo": "Logo",

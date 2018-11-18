@@ -26,6 +26,7 @@
         "technicalError": "Das Video kann durch einen technischen Fehler nicht abgespielt werden."
     },
     "fullscreen": "Vollbild",
+    "exitFullscreen": "Vollbild Beenden",
     "hd": "Qualität",
     "liveBroadcast": "Live",
     "logo": "Logo",

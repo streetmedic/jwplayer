@@ -26,6 +26,7 @@
         "technicalError": "Acest video nu poate fi redat din cauza unei erori tehnice."
     },
     "fullscreen": "Ecran complet",
+    "exitFullscreen": "Ieși din modul Ecran complet",
     "hd": "Calitate",
     "liveBroadcast": "În Direct",
     "logo": "Logo",
