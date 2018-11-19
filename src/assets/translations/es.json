@@ -25,8 +25,8 @@
         "protectedContent": "Hubo un problema al dar acceso a contenido protegido.",
         "technicalError": "Este video no se puede reproducir por un error técnico."
     },
-    "fullscreen": "Pantalla Completa",
     "exitFullscreen": "Salir de la Pantalla Completa",
+    "fullscreen": "Pantalla Completa",
     "hd": "Calidad",
     "liveBroadcast": "En Vivo",
     "logo": "Logo",

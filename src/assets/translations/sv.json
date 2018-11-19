@@ -25,8 +25,8 @@
         "protectedContent": "Det var problem med att ge tillgång till skyddat innehåll.",
         "technicalError": "Videon kan inte spelas på grund av ett tekniskt problem."
     },
-    "fullscreen": "Fullskärm",
     "exitFullscreen": "Stäng Helskärm",
+    "fullscreen": "Fullskärm",
     "hd": "Kvalitet",
     "liveBroadcast": "Live",
     "logo": "Logotyp",

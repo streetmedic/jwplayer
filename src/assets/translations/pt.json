@@ -25,8 +25,8 @@
         "protectedContent": "Houve um problema ao fornecer acesso ao conteúdo protegido.",
         "technicalError": "Este vídeo não pode ser reproduzido devido a um problema técnico."
     },
-    "fullscreen": "Tela Cheia",
     "exitFullscreen": "Sair da Tela Cheia",
+    "fullscreen": "Tela Cheia",
     "hd": "Qualidade",
     "liveBroadcast": "Ao Vivo",
     "logo": "Logo",

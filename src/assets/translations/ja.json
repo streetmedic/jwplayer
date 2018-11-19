@@ -25,8 +25,8 @@
         "protectedContent": "保護されたコンテンツへのアクセス提供に問題がありました。",
         "technicalError": "技術的なエラーにより、この動画は再生できません。"
     },
-    "fullscreen": "全画面",
     "exitFullscreen": "全画面を閉じる",
+    "fullscreen": "全画面",
     "hd": "画質",
     "liveBroadcast": "ライブ配信",
     "logo": "ロゴ",

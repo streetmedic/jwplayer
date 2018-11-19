@@ -25,8 +25,8 @@
         "protectedContent": "Nous n'avons pas réussi à accéder à ce contenu protégé.",
         "technicalError": "Une erreur technique empêche la lecture de la vidéo."
     },
-    "fullscreen": "Plein Écran",
     "exitFullscreen": "Sortir du Mode Plein Écran",
+    "fullscreen": "Plein Écran",
     "hd": "Qualité",
     "liveBroadcast": "Live",
     "logo": "Logo",

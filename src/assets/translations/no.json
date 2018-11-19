@@ -25,8 +25,8 @@
         "protectedContent": "Det oppstod problemer med å gi tilgang til begrenset innhold.",
         "technicalError": "Denne videoen kan ikke spiller på grunn av tekniske problemer."
     },
-    "fullscreen": "Full skjerm",
     "exitFullscreen": "Avslutt fullskjerm",
+    "fullscreen": "Full skjerm",
     "hd": "Kvalitet",
     "liveBroadcast": "Direkte",
     "logo": "Logo",

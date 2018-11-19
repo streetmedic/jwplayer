@@ -25,8 +25,8 @@
         "protectedContent": "Korunan içeriğe erişimde bir sorun var.",
         "technicalError": "Bir teknik hatadan dolayı bu video oynatılamıyor."
     },
-    "fullscreen": "Tam Ekran",
     "exitFullscreen": "Tam Ekrandan Çık",
+    "fullscreen": "Tam Ekran",
     "hd": "Kalite",
     "liveBroadcast": "Canlı",
     "logo": "Logo",

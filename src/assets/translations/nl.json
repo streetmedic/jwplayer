@@ -25,8 +25,8 @@
         "protectedContent": "Deze beschermde video kan niet worden afgespeeld.",
         "technicalError": "Deze video kan niet worden afgespeeld door een technisch probleem."
     },
-    "fullscreen": "Fullscreen",
     "exitFullscreen": "Volledig Scherm Verlaten",
+    "fullscreen": "Fullscreen",
     "hd": "Kwaliteit",
     "liveBroadcast": "Live",
     "logo": "Logo",

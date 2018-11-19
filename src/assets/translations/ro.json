@@ -25,8 +25,8 @@
         "protectedContent": "A apărut o problemă la acordarea accesului la conținut protejat.",
         "technicalError": "Acest video nu poate fi redat din cauza unei erori tehnice."
     },
-    "fullscreen": "Ecran complet",
     "exitFullscreen": "Ieși din modul Ecran complet",
+    "fullscreen": "Ecran complet",
     "hd": "Calitate",
     "liveBroadcast": "În Direct",
     "logo": "Logo",

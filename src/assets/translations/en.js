@@ -25,8 +25,8 @@ export default {
         protectedContent: 'There was a problem providing access to protected content.',
         technicalError: 'This video cannot be played because of a technical error.'
     },
-    fullscreen: 'Fullscreen',
     exitFullscreen: 'Exit Fullscreen',
+    fullscreen: 'Fullscreen',
     hd: 'Quality',
     liveBroadcast: 'Live',
     logo: 'Logo',
